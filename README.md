@@ -16,4 +16,5 @@ notelens/
 ├─ ingestion/      # Scripts to parse, normalize, and load standards
 ├─ tests/          # Unit and integration tests
 ├─ scripts/        # Dev tools (bootstrap DB, embeddings, etc.)
-└─ docs/           # Project documentation and guides
+├─ docs/           # Project documentation and guides
+└─ notebooks/
