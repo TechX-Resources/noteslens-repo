@@ -1,5 +1,6 @@
 # noteslens-repo
 Classifies and summarizes content
+Sumit changed things to test
 <!--First Push by Manoj --> 
 notelens/
 ├─ backend/        # API service (FastAPI/Flask) and core logic
